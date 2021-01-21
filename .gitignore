@@ -55,7 +55,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Except for these:
-!/.gitignore
-!/Assets
-!/ProjectSettings
